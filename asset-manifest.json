@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/R-i-t-a-m-007/FitHubster.github.io.git/static/css/main.20acbc28.css",
-    "main.js": "/R-i-t-a-m-007/FitHubster.github.io.git/static/js/main.ae742431.js",
+    "main.js": "/R-i-t-a-m-007/FitHubster.github.io.git/static/js/main.694e4c39.js",
     "static/media/banner.png": "/R-i-t-a-m-007/FitHubster.github.io.git/static/media/banner.5209b5e92a864ca0c615.png",
     "static/media/gym.png": "/R-i-t-a-m-007/FitHubster.github.io.git/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/R-i-t-a-m-007/FitHubster.github.io.git/index.html",
     "main.20acbc28.css.map": "/R-i-t-a-m-007/FitHubster.github.io.git/static/css/main.20acbc28.css.map",
-    "main.ae742431.js.map": "/R-i-t-a-m-007/FitHubster.github.io.git/static/js/main.ae742431.js.map"
+    "main.694e4c39.js.map": "/R-i-t-a-m-007/FitHubster.github.io.git/static/js/main.694e4c39.js.map"
   },
   "entrypoints": [
     "static/css/main.20acbc28.css",
-    "static/js/main.ae742431.js"
+    "static/js/main.694e4c39.js"
   ]
 }
